@@ -15,8 +15,10 @@ Dependencies: only from built-in standard library
 
 Installation instructions:
 - Run the following command in desired directory
+
   git clone https://github.com/pyMike/zs.git
 
 Run Script: 
 - to get help on usage, enjoy
+
   python scramble.py -h 
